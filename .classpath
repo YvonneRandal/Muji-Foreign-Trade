@@ -4,7 +4,7 @@
 	<classpathentry kind="src" path="resources"/>
 	<classpathentry kind="src" path="application"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 7 [1.7.0_51]"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Jide Library"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Jdaf Library"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Jdaf Purchased Library"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/POI Library"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

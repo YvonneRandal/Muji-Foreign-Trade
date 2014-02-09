@@ -93,6 +93,8 @@ public class Sample extends DefaultDockableBarDockableHolder {
 	}
 
 	public static void main(String[] args) {
+		com.jidesoft.utils.Lm.verifyLicense("Randal Yvonne", "Muji Foreign Trade", "akmV:W4iAz2jjh0k:SN:tT48wlS9cRL");
+
 		if (args.length == 0) {
 			System.out.println("Usage:\tjava Sample initialLayoutFile");
 			System.out

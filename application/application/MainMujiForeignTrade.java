@@ -149,6 +149,7 @@ public class MainMujiForeignTrade implements
      * @param args - program arguments
      */
     public static void main(String[] args) {
+		com.jidesoft.utils.Lm.verifyLicense("Randal Yvonne", "Muji Foreign Trade", "akmV:W4iAz2jjh0k:SN:tT48wlS9cRL");
 
         // run application
         new MainMujiForeignTrade().getApplication().run(args);
